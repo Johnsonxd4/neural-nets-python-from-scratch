@@ -7,7 +7,8 @@ usefull links:
 * [reference case study](https://cs231n.github.io/neural-networks-case-study/)
 
 ## dig deeper on:
-[ ] Categorical cross entropy
-[ ] Loos 
-[ ] accuracy
-[ ] Limit calculation
+- [ ] Categorical cross entropy
+- [ ] Loos 
+- [ ] accuracy
+- [ ] Limit calculation
+
