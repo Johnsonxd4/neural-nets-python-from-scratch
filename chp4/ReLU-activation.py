@@ -11,6 +11,8 @@ class Layer_Dense:
     def forward(self,inputs):
         self.output = np.dot(inputs,self.weights) + self.biases
 
+
+#only clips negative number to zero
 class Activation_ReLU:
     def forward(self,inputs):
         self.output = np.maximum(0,inputs)
