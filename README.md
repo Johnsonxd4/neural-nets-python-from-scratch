@@ -11,4 +11,5 @@ usefull links:
 - [ ] Loos 
 - [ ] accuracy
 - [ ] Limit calculation
-
+- [ ] Derivative
+- [ ] Gradient
