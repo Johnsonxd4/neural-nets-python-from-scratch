@@ -12,4 +12,5 @@ usefull links:
 - [ ] accuracy
 - [ ] Limit calculation
 - [ ] Derivative
+- [ ] Partial Derivative
 - [ ] Gradient
