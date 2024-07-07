@@ -1,2 +1,2 @@
-env/*
+impl-nnfs/env/**
 **/__pycache__/**
