@@ -7,16 +7,16 @@ Learning path:
 
 * [reference case study](https://cs231n.github.io/neural-networks-case-study/)
 
-# Concept table:
+# Concepts table:
 - [x] Neuron
         should be enough nnfs book. Pretty straightforward.
 - [x] Categorical cross entropy
+- [ ] Stochastic gradient descent
 - [ ] Loos 
-- [ ] accuracy
-- [ ] Limit calculation
-- [ ] Derivative
-- [ ] Partial Derivative
-- [ ] Gradient descendent
+- [x] accuracy
+- [x] Derivative
+- [x] Partial Derivative
+- [x] Gradient descendent
 *[Manual gradient descendent calculation] (https://towardsdatascience.com/calculating-gradient-descent-manually-6d9bee09aa0b)
 
 ## usefull videos:
