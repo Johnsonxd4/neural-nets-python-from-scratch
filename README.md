@@ -18,7 +18,7 @@ Learning path:
 - [x] Gradient descendent
 - [ ] Stochastic gradient descent
 - [ ] Loos 
-
+- [ ] Review backpropagation math
 
 
 ## usefull videos:
