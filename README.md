@@ -11,13 +11,14 @@ Learning path:
 - [x] Neuron
         should be enough nnfs book. Pretty straightforward.
 - [x] Categorical cross entropy
-- [ ] Stochastic gradient descent
-- [ ] Loos 
 - [x] accuracy
 - [x] Derivative
 - [x] Partial Derivative
 - [x] Gradient descendent
-*[Manual gradient descendent calculation] (https://towardsdatascience.com/calculating-gradient-descent-manually-6d9bee09aa0b)
+- [ ] Stochastic gradient descent
+- [ ] Loos 
+
+* [Manual gradient descendent calculation](https://towardsdatascience.com/calculating-gradient-descent-manually-6d9bee09aa0b)
 
 ## usefull videos:
 https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1
