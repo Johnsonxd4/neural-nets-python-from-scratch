@@ -6,6 +6,7 @@ Learning path:
  - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
 
 * [reference case study](https://cs231n.github.io/neural-networks-case-study/)
+* [Manual gradient descendent calculation](https://towardsdatascience.com/calculating-gradient-descent-manually-6d9bee09aa0b)
 
 # Concepts table:
 - [x] Neuron
@@ -18,7 +19,7 @@ Learning path:
 - [ ] Stochastic gradient descent
 - [ ] Loos 
 
-* [Manual gradient descendent calculation](https://towardsdatascience.com/calculating-gradient-descent-manually-6d9bee09aa0b)
+
 
 ## usefull videos:
 https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1
