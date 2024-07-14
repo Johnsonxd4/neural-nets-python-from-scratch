@@ -6,13 +6,15 @@ from activation_ReLU import Activation_ReLU
 from dense_layer import Layer_Dense
 from activation_softmax_loss_CategoricalCrossentropy import Activation_Softmax_Loss_CategoricalCrossentropy
 from optimizer_SGD import Optimizer_SGD
-
+from optmizer_Adagrad import Optimizer_Adagrad
+from Optimizer_RMSprop import Optimizer_RMSprop
+from optmizer_Adam import Optimizer_Adam
 X, y = spiral_data(samples=100, classes=3)
 dense1 = Layer_Dense(2, 64)
 activation1 = Activation_ReLU()
 dense2 = Layer_Dense(64, 3)
 loss_activation = Activation_Softmax_Loss_CategoricalCrossentropy()
-optimizer = Optimizer_SGD(decay=0.05,momentum=5e-7)
+optimizer = Optimizer_Adam(learning_rate=0.05, decay=5e-7)
 
 for epoch in range(10001):
     #forward pass
