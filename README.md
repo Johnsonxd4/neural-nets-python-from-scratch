@@ -7,7 +7,7 @@ Learning path:
 
 * [reference case study](https://cs231n.github.io/neural-networks-case-study/)
 * [Manual gradient descendent calculation](https://towardsdatascience.com/calculating-gradient-descent-manually-6d9bee09aa0b)
-
+[video: neural networks from ground up](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1)
 # Concepts table:
 - [x] Neuron
         should be enough nnfs book. Pretty straightforward.
@@ -19,7 +19,5 @@ Learning path:
 - [ ] Stochastic gradient descent
 - [ ] Loos 
 - [ ] Review backpropagation math
+- [ ] k-fold cross-validation;
 
-
-## usefull videos:
-https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1
